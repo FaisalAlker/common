@@ -1,7 +1,7 @@
 ## Local user for Windows 11
 
 **Important**
-- If you has internet connection please disconnect first so you can choose "I dont have internet" Option below in the page of "Lets Connect you to a network" for creating Local User Account.
+- If you has internet connection please **disconnect** first so you can choose "I dont have internet" Option below in the page of "Lets Connect you to a network" for creating **Local User Account**.
 
 - When you fresh install Windows at Choose Country page press SHIFT + F10 for open Command Prompt
 - Type > OOBE\BYPASSNRO then Enter
